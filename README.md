@@ -19,7 +19,7 @@
 
 https://www.sqlitetutorial.net/sqlite-sample-database/#:~:text=the%20following%20link.-,Download%20SQLite%20sample%20database,-In%20case%20you
 
-###### Appena entrati nel sito scaricare il link evidenziato!
+###### Appena entrati nel sito scaricare il file dal link evidenziato!
 
 ### Codice per visualizzare gli artisti
 
