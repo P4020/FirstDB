@@ -45,7 +45,8 @@ public class Artist
     public string Name{get; set;}
     
 }
-Questa immagine rappresenta il codice da usare.
+    
+###### Questa immagine rappresenta il codice usato per la visualizzazione degli artisti.
 ![image](https://user-images.githubusercontent.com/117436985/235088812-f6029c04-12a4-4f35-9594-6de4aa0c02f4.png)
 
 
