@@ -12,6 +12,10 @@ Aprire la cartella in VisualStudio Code e, aprendo un nuovo terminale, digitare 
 
 ![image](https://user-images.githubusercontent.com/117436985/235088243-ec7f129e-3ace-4355-b198-8681ab9f4c89.png)
 
+Il link per scaricare il file db chinook.db è : 
+
+https://www.sqlitetutorial.net/sqlite-sample-database/#:~:text=the%20following%20link.-,Download%20SQLite%20sample%20database,-In%20case%20you
+
 Per andare a visualizzare gli artisti nel file SQL chinook.db bisogna utilizzare il codice sottostante :
 
 ![image](https://user-images.githubusercontent.com/117436985/235088812-f6029c04-12a4-4f35-9594-6de4aa0c02f4.png)
