@@ -57,7 +57,7 @@ public class Artist
 
 ![image](https://user-images.githubusercontent.com/117436985/236143761-ec2f2076-6105-4c3d-9523-8816d9f4f4cd.png)
 
-###### e se vuoi anche visualizzare tutti gli artisti del file chinook.db installare l'estenzione : "SQLite Viewer"
+###### e se vuoi anche visualizzare tutti gli artisti del file chinook.db su VisualStudio Code installare l'estenzione : "SQLite Viewer"
 
 ![image](https://user-images.githubusercontent.com/117436985/236144223-1c71779c-6e3b-4417-8a98-ede510d16759.png)
 
