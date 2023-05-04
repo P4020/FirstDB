@@ -18,6 +18,8 @@ https://www.sqlitetutorial.net/sqlite-sample-database/#:~:text=the%20following%2
 
 Appena entrati nel sito scaricare il link evidenziato!
 
+
+
 Per andare a visualizzare gli artisti nel file SQL chinook.db bisogna utilizzare il codice sottostante :
 
 ![image](https://user-images.githubusercontent.com/117436985/235088812-f6029c04-12a4-4f35-9594-6de4aa0c02f4.png)
