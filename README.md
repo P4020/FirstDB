@@ -2,7 +2,7 @@
 
 ### Descrizione progetto
 
-###### Creare una cartella sul desktop nominandola : "cognome.nome.classe.nomedelprogetto"
+###### Creare una cartella sul desktop nominandola con il proprio : "cognome.nome.classe.nomedelprogetto"
 
 ![image](https://user-images.githubusercontent.com/117436985/235085824-335c42ce-4538-4929-ae9f-4995d9ffc6b7.png)
 
