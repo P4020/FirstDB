@@ -49,4 +49,21 @@ public class Artist
 ###### Questa immagine rappresenta il codice usato per la visualizzazione degli artisti.
 ![image](https://user-images.githubusercontent.com/117436985/235088812-f6029c04-12a4-4f35-9594-6de4aa0c02f4.png)
 
+### Libreria SQL
+
+###### La libreria da usare per far funzionare il codice SQL è : "using SQLite;"
+###### e digitare nel terminale la seguente riga di codice : "dotnet add package sqlite-net-pcl".
+###### Inoltre su VisualStudio Code installare l'estenzione : "SQLite"
+
+![image](https://user-images.githubusercontent.com/117436985/236143761-ec2f2076-6105-4c3d-9523-8816d9f4f4cd.png)
+
+###### e se vuoi anche visualizzare tutti gli artisti del file chinook.db installare l'estenzione : "SQLite Viewer"
+
+![image](https://user-images.githubusercontent.com/117436985/236144223-1c71779c-6e3b-4417-8a98-ede510d16759.png)
+
+
+
+
+
+
 
